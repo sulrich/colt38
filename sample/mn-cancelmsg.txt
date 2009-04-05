@@ -1,0 +1,4 @@
+Message cancelled for excessive crossposting outside of the MN hierarchy.
+The charters for the mn.* hierarchy can be found at:
+
+ftp://ftp.visi.com/pub/mn.charters/

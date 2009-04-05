@@ -1,0 +1,4 @@
+mn.general:76119:1
+mn.jobs:143409:5
+mn.online-service:4500:2
+mn.politics:26992:2
